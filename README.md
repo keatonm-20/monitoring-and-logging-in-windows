@@ -1,4 +1,4 @@
-# Monitoring and Logging in Windows
+# Windows Server Monitoring & Event Logging Configuration (Sysadmin Lab)
 
 ### Viewing logs in Event Finder<br><br>
 ![Dashboard Screenshot](images/img1.png)
