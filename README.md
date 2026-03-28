@@ -1,4 +1,12 @@
-# Windows Server Monitoring & Event Logging Configuration (Sysadmin Lab)
+# Windows Server Monitoring & Event Logging Configuration
+
+## 🚀 Skills Demonstrated (Overview)
+- Setting up Event Forwarding to a central server
+- Monitoring system, security, and application events
+- Using Performance Monitor and Resource Monitor for real-time insights
+- Troubleshooting and analyzing event logs for system health
+
+---
 
 ### Viewing logs in Event Finder<br><br>
 ![Dashboard Screenshot](images/img1.png)
